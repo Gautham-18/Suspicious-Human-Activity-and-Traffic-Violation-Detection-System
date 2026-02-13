@@ -1,0 +1,6 @@
+*.h5
+*.pt
+*.onnx
+*.weights
+yolov5_env/
+__pycache__/
